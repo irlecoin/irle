@@ -3,7 +3,7 @@ IrleCoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/irlecoin-project/irlecoin.svg?branch=master)](https://travis-ci.org/irlecoin-project/irlecoin)
 
-https://irlecoin.org
+https://irlecoin.com
 
 What is IrleCoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. IrleCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the IrleCoin Core software, see [https://irlecoin.org](https://irlecoin.org).
+the IrleCoin Core software, see [https://irlecoin.com](https://irlecoin.com).
 
 License
 -------
