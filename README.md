@@ -8,15 +8,15 @@ https://irlecoin.com
 Blockchain Properties
 ----------------
 
-Algorithm: Scrypt 
-Type: PoW 
-Coin Name: Irlecoin
-Coin Abbreviation: IRLE 
-RPC Port: 44421
-Block Reward: 50 Coins 
-Coin Supply: 21,000,000 Coins 
-Premine Amount: 1,000,000 Coins
-Discord: https://discord.gg/8h9AgD5
+- Algorithm: Scrypt
+- Type: PoW 
+- Coin Name: Irlecoin
+- Coin Abbreviation: IRLE 
+- RPC Port: 44421
+- Block Reward: 50 Coins 
+- Coin Supply: 21,000,000 Coins 
+- Premine Amount: 1,000,000 Coins
+- Discord: https://discord.gg/8h9AgD5
 
 What is IrleCoin?
 ----------------
